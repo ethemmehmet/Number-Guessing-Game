@@ -1,0 +1,10 @@
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe.config
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\bin\Debug\Sayı Tahmin Oyunu.pdb
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Form1.resources
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.exe
+C:\Users\NİGHT\Desktop\C# Projeler\Sayı Tahmin Oyunu\Sayı Tahmin Oyunu\obj\Debug\Sayı Tahmin Oyunu.pdb
